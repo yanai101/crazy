@@ -1,0 +1,4 @@
+crazy
+=====
+
+crazy for wordpress
